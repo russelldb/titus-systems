@@ -1,7 +1,4 @@
-# titus systems
-Titus Engineering
-
-
+# Titus Systems
 
 Titus Systems is a computer technology company, that provides advice on addressing challenging problems of scale and availability, whilst avoiding high long-term operational costs.  
 
